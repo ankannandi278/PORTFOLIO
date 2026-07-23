@@ -22,13 +22,7 @@ export const profile = {
   careerGoal: 'Software Engineer',
   location: 'Durgapur, West Bengal, India',
 
-  // PHOTO PLACEHOLDER
-  // Drop your photo at: public/profile.jpg (any square image, 800x800px+)
-  // Then set photo below to: '/profile.jpg'
-  // (Using the public/ folder keeps this simple — files there are served
-  // as-is, no import needed. If you'd rather keep it in src/assets and
-  // get Vite's image optimization, import it directly in About.jsx instead
-  // and pass it in as a prop — see the comment in src/pages/About.jsx.)
+  
   photo: '/profile.jpg',
 
   // RESUME PLACEHOLDER
