@@ -29,7 +29,7 @@ export const profile = {
   // as-is, no import needed. If you'd rather keep it in src/assets and
   // get Vite's image optimization, import it directly in About.jsx instead
   // and pass it in as a prop — see the comment in src/pages/About.jsx.)
-  photo: null,
+  photo: '/profile.jpg',
 
   // RESUME PLACEHOLDER
   // Drop your resume at: public/resume.pdf
