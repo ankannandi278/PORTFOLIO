@@ -23,7 +23,7 @@ export const profile = {
   location: 'Durgapur, West Bengal, India',
 
   
-  photo: '/profile.jpg',
+  photo: `${import.meta.env.BASE_URL}profile.jpg`,
 
   // RESUME PLACEHOLDER
   // Drop your resume at: public/resume.pdf

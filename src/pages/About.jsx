@@ -51,11 +51,6 @@ export default function About() {
                 </span>
               )}
             </div>
-            <p className="mt-4 text-center md:text-left font-mono text-[11px] text-faint max-w-[224px]">
-              PHOTO PLACEHOLDER — add yours at
-              public/profile.jpg, then set `photo: '/profile.jpg'`
-              in src/data/profile.js
-            </p>
           </motion.div>
 
           <div>
