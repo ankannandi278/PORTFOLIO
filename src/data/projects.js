@@ -49,10 +49,10 @@ export const projects = [
     description:
       'The site you are looking at right now — built with React, Vite, Tailwind CSS, and Framer Motion.',
     tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    image: null,
+    image: '/projects/portfolio.png',
     github: 'https://github.com/ankannandi278',
-    liveDemo: null,
-    status: 'in-progress',
+    liveDemo: 'https://ankannandi.netlify.app',
+    status: 'completed',
   },
   {
     id: 'proj-4',
