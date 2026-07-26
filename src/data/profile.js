@@ -25,10 +25,6 @@ export const profile = {
   
   photo: `${import.meta.env.BASE_URL}profile.jpg`,
 
-  // RESUME PLACEHOLDER
-  // Drop your resume at: public/resume.pdf
-  // Once the file exists, set resumeAvailable to true — the Resume button
-  // will then download it. Until then it shows a "Resume Coming Soon" modal.
   resumeAvailable: false,
   resumePath: '/resume.pdf',
 }
