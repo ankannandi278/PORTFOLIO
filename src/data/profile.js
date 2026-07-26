@@ -25,7 +25,7 @@ export const profile = {
   
   photo: `${import.meta.env.BASE_URL}profile.jpg`,
 
-  resumeAvailable: false,
+  resumeAvailable: true,
   resumePath: '/resume.pdf',
 }
 
