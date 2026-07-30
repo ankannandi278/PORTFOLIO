@@ -30,7 +30,7 @@ export const projects = [
     image: null,
     github: null,
     liveDemo: null,
-    status: 'completed',
+    status: 'coming-soon',
   },
   {
     id: 'proj-2',
@@ -41,7 +41,7 @@ export const projects = [
     image: '/projects/RMS.png',
     github: 'https://github.com/ankannandi278',
     liveDemo: 'https://restaurantka.netlify.app',
-    status: 'coming-soon',
+    status: 'completed',
   },
   {
     id: 'proj-3',
