@@ -34,13 +34,13 @@ export const projects = [
   },
   {
     id: 'proj-2',
-    title: 'MERN Project',
+    title: 'Resturant Management System (RMS)',
     description:
       'A future full-stack build — CRUD app with authentication, planned once backend fundamentals are solid.',
     tech: ['MongoDB', 'Express', 'React', 'Node', 'JWT'],
-    image: null,
-    github: null,
-    liveDemo: null,
+    image: '/projects/RMS.png',
+    github: 'https://github.com/ankannandi278',
+    liveDemo: 'https://restaurantka.netlify.app',
     status: 'coming-soon',
   },
   {
