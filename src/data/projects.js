@@ -30,7 +30,7 @@ export const projects = [
     image: null,
     github: null,
     liveDemo: null,
-    status: 'coming-soon',
+    status: 'completed',
   },
   {
     id: 'proj-2',
