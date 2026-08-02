@@ -27,10 +27,10 @@ export const projects = [
     description:
       'Reserved for the first MERN project — a full end-to-end app once the stack is further along.',
     tech: ['MongoDB', 'Express', 'React', 'Node'],
-    image: null,
-    github: null,
-    liveDemo: null,
-    status: 'coming-soon',
+    image: '/projects/friendbook.png',
+    github: 'https://github.com/ankannandi278',
+    liveDemo: 'https://friendbooka.netlify.app',
+    status: 'completed',
   },
   {
     id: 'proj-2',
