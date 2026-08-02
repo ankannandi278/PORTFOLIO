@@ -23,7 +23,7 @@
 export const projects = [
   {
     id: 'proj-1',
-    title: 'Project One',
+    title: 'Friendbook',
     description:
       'Reserved for the first MERN project — a full end-to-end app once the stack is further along.',
     tech: ['MongoDB', 'Express', 'React', 'Node'],
@@ -34,7 +34,7 @@ export const projects = [
   },
   {
     id: 'proj-2',
-    title: 'Resturant Management System (RMS)',
+    title: 'Restaurant Management System (RMS)',
     description:
       'A future full-stack build — CRUD app with authentication, planned once backend fundamentals are solid.',
     tech: ['MongoDB', 'Express', 'React', 'Node', 'JWT'],
