@@ -29,7 +29,7 @@ export const projects = [
     tech: ['MongoDB', 'Express', 'React', 'Node'],
     image: '/projects/friendbook.png',
     github: 'https://github.com/ankannandi278',
-    liveDemo: 'https://friendbooka.netlify.app',
+    liveDemo: 'https://friendbook-alpha.vercel.app',
     status: 'completed',
   },
   {
