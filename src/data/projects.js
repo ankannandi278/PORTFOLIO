@@ -51,7 +51,7 @@ export const projects = [
     tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
     image: '/projects/portfolio.png',
     github: 'https://github.com/ankannandi278',
-    liveDemo: 'https://ankannandi.netlify.app',
+    liveDemo: 'https://ankannandimyportfolio.vercel.app',
     status: 'completed',
   },
   {
